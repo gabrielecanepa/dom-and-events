@@ -1,0 +1,15 @@
+html {
+  font-family: sans-serif;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
